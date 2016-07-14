@@ -33,10 +33,10 @@ trait SubjectTrait
 	}
 
 	/**
-	 * Returns true if the observer is attached succesfully.
+	 * Returns true if the observer is attached successfully.
 	 *
 	 * @param ObserverInterface $observer
-	 * @return bool true if the observer is attached succesfully.
+	 * @return bool true if the observer is attached successfully.
 	 */
 	public function attach(ObserverInterface $observer)
 	{
@@ -50,10 +50,10 @@ trait SubjectTrait
 	}
 
 	/**
-	 * Returns true if the observer is detached succesfully.
+	 * Returns true if the observer is detached successfully.
 	 *
 	 * @param ObserverInterface $observer
-	 * @return bool true if the observer is detached succesfully.
+	 * @return bool true if the observer is detached successfully.
 	 */
 	public function detach(ObserverInterface $observer)
 	{
