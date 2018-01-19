@@ -10,13 +10,14 @@
 
 namespace miBadger\Observer;
 
+use PHPUnit\Framework\TestCase;
 
 /**
  * The subject test.
  *
  * @since 1.0.0
  */
-class SubjectTest extends \PHPUnit_Framework_TestCase
+class SubjectTest extends TestCase
 {
 	/** @var The subject. */
 	private $subject;
