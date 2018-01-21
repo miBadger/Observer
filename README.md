@@ -3,6 +3,7 @@
 [![Build Status](https://scrutinizer-ci.com/g/miBadger/miBadger.Observer/badges/build.png?b=master)](https://scrutinizer-ci.com/g/miBadger/miBadger.Observer/build-status/master)
 [![Code Coverage](https://scrutinizer-ci.com/g/miBadger/miBadger.Observer/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/miBadger/miBadger.Observer/?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/miBadger/miBadger.Observer/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/miBadger/miBadger.Observer/?branch=master)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/501c2d95-c64f-48ca-b880-ac45723da14f/mini.png)](https://insight.sensiolabs.com/projects/501c2d95-c64f-48ca-b880-ac45723da14f)
 
 The Observer Component.
 
